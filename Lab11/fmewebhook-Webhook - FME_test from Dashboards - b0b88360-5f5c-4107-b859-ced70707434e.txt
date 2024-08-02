@@ -1,0 +1,26 @@
+Name:
+Webhook - FME_test from Dashboards - b0b88360-5f5c-4107-b859-ced70707434e
+
+Token:
+6b5d2e9ee8e239778e4754d4dc49fbe1ea51ddb3
+
+Description:
+Allow users to run Dashboards/FME_test without logging in
+
+Created Date:
+2024-01-21T15:55:01.862Z
+
+Expiration Date:
+2024-02-29T23:00:00.000Z
+
+Enabled:
+true
+
+Authorization with Header:
+http://localhost/fmedatadownload/Dashboards/FME_test.fmw?Sender_e-mail=ppowroznik02%40gmail.com&Pipeline=request121&Password=&Destination_e-mail=ppowroznik%40student.agh.edu.pl&Powiat=powiat%20%C5%9Awinouj%C5%9Bcie&Cloud_coverage=50&Start_date=20230715000000&End_date=20230715000000&SourceDataset_SHAPEFILE=C%3A%5CUsers%5Cppowr%5CDownloads%5Cpowiaty%5Cpowiaty.shp&DestDataset_GEOTIFF=NDVI&opt_showresult=false&opt_servicemode=sync
+Header Key: Authorization
+Header Value: fmetoken token=6b5d2e9ee8e239778e4754d4dc49fbe1ea51ddb3
+
+Authorization with Query String:
+http://localhost/fmedatadownload/Dashboards/FME_test.fmw?Sender_e-mail=ppowroznik02%40gmail.com&Pipeline=request121&Password=&Destination_e-mail=ppowroznik%40student.agh.edu.pl&Powiat=powiat%20%C5%9Awinouj%C5%9Bcie&Cloud_coverage=50&Start_date=20230715000000&End_date=20230715000000&SourceDataset_SHAPEFILE=C%3A%5CUsers%5Cppowr%5CDownloads%5Cpowiaty%5Cpowiaty.shp&DestDataset_GEOTIFF=NDVI&opt_showresult=false&opt_servicemode=sync&token=6b5d2e9ee8e239778e4754d4dc49fbe1ea51ddb3
+
